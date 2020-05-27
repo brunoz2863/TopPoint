@@ -1,0 +1,9 @@
+name: TopPoint
+main: bruno\TopPoint\Main
+api: [3]
+version: 2
+author: bruno
+
+commands:
+ settoppoint:
+     description: TopPoint 
